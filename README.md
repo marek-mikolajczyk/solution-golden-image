@@ -1,0 +1,1 @@
+# solution-golden-image
